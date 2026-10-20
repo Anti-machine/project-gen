@@ -9,5 +9,4 @@ type nul > "README.md"
 type nul > "LICENSE"
 type nul > ".gitignore"
 
-echo Done. Created folders and files in %cd%
 endlocal
