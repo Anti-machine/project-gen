@@ -2,7 +2,7 @@
 
 mkdir src
 
-mkdir assets/sound
-mkdir assets/graphics
+mkdir -p assets/sound
+mkdir -p assets/graphics
 
 touch README.md, LICENSE, .gitignore
